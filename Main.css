@@ -1,0 +1,22 @@
+/*A css comment:
+We comment to assist with explaining the code for collaborators or yourself in a week or more. */
+body{
+  background-color:#252C66;  color white;
+}
+h1{
+  color:#27A16F;
+
+
+/*ID Take percedenc over class*/ 
+  #yellow{
+    color: Yellow; font- style: italic;
+   
+  }
+
+
+
+}
+/*later code takes percedence over earlier code */
+h1{
+  color ;
+}
